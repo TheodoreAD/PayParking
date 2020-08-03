@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# UnhandledExceptions: Unhandled exception(s)
+dotnet_diagnostic.UnhandledExceptions.severity                     = suggestion
+
+# ExceptionThrownInPropertyExpressionBody: Unhandled exception(s)
+dotnet_diagnostic.ExceptionThrownInPropertyExpressionBody.severity = suggestion
